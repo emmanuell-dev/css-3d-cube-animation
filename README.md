@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+[View the animation live here](https://emmanuell-dev.github.io/css-3d-cube-animation/)
+
+
 # Interactive 3D CSS Cube Animation 🧊
 
 A lightweight, high-performance 3D cube animation built entirely with **HTML5** and **CSS3**. This project demonstrates the power of CSS 3D transforms and orchestrated keyframes without the need for JavaScript libraries.
